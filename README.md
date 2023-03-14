@@ -1,7 +1,11 @@
 # Report Issue Bot
+Welcome to our WXSD DEMO Repo! <!-- Keep this here --> 
 
 Report Issue Bot, gets a post request once the user starts the issue on the Webex device. On getting the post request, bot determines the appropriate team based on the issue and the team space receives a notification of the trouble on the user end. Then the team member can acknowledge the ownership and send message back to the device.
 
+<!-- Keep the following here -->  
+ *_Everything included is for demo and Proof of Concept purposes only. Your use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos._
+ 
 ### Usage
 
 One can use the Report Issue Bot by sending a post request to
